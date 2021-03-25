@@ -80,6 +80,11 @@ export default {
           title: 'Inspire',
           to: '/inspire',
         },
+        {
+          icon: 'mdi-pencil',
+          title: 'Create',
+          to: '/create',
+        },
       ],
       miniVariant: false,
       right: true,
